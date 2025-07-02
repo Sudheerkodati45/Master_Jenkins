@@ -44,7 +44,7 @@ Before attempting to upgrade Jenkins using the scripts in this repository, ensur
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anshulc55/Jenkins_Upgradev3.git
+   [https://github.com/Sudheerkodati45/Master_Jenkins.git]
    ```
 
 2. Change to the repository directory:
