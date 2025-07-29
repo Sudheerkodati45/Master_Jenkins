@@ -37,7 +37,7 @@ Before attempting to upgrade Jenkins using the scripts in this repository, ensur
 - Jenkins instance is currently running version 2.x.
 - Backup of Jenkins home directory and configuration.
 - Compatible versions of Java installed on the system.
-- Internet access to download the latest Jenkins release and plugins.
+- Internet access to download the latest Jenkins release and the plugins.
 
 ## Installation
 
